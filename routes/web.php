@@ -6,3 +6,7 @@ use Modules\Bachelor\Http\Controllers\BachelorController;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/', function () {
+    return view('welcome');
+});
